@@ -27,16 +27,16 @@ subtitle = ""
   description = "POCO, Cpp Micro Service"
 
 [[feature]]
-  icon = "html5"
-  icon_pack = "fab"
-  name = "HTML and CSS"
-  description = "Bootstrap, Ant Design, Element"
-
-[[feature]]
   icon = "node-js"
   icon_pack = "fab"
   name = "JavaScript"
   description = "Vue.js, Jquery"
+
+[[feature]]
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML and CSS"
+  description = "Bootstrap, Ant Design, Element"
 
 [[feature]]
   icon = "database"
@@ -45,9 +45,9 @@ subtitle = ""
   description = "PostgreSQL, MySQL, MongoDB"
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = "Ubuntu, CentOS"
+  icon = "server"
+  icon_pack = "fas"
+  name = "Server"
+  description = "Ubuntu, CentOS, Docker"
 
 +++
