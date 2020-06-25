@@ -25,6 +25,10 @@ git push -u gitea master
 
 Write-Host "===================="
 Write-Host "Git pull from server"
-ssh root@davidz.cn bash -c "cd /docker/academic/ && git pull"
+ssh root@davidz.cn bash -c "'cd /docker/academic/ && git pull'"
+
+Write-Host "===================="
+Write-Host "Restart nginx in server"
+ssh root@davidz.cn bash -c "'docker restart nginx'"
 
 Set-Location $CurrentWorKDir
