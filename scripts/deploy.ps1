@@ -14,11 +14,14 @@ git push
 
 Write-Host "===================="
 Write-Host "Generate static site"
-# hugo.exe -D
+hugo.exe -D
 
 Write-Host "===================="
 Write-Host "Git push the generated static site"
-# Set-Location public
-# Get-Location
+Set-Location public
+git add .
+git commit -am $Message
+git push -u origin master
+git push -u gitea master
 
 Set-Location $CurrentWorKDir
