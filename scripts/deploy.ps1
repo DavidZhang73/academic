@@ -10,6 +10,7 @@ Set-Location $CurrentDir
 Set-Location ..
 git add .
 git commit -am $Message
+git push
 
 Write-Host "===================="
 Write-Host "Generate static site"
