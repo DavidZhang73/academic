@@ -3,7 +3,6 @@ $CurrentDir = Split-Path -Parent $MyInvocation.MyCommand.Definition
 $Message = "Site updated: $(Get-Date -Format 'yyyy-M-d H:m:s')"
 Write-Host $Message
 
-
 Write-Host "===================="
 Write-Host "Git push the resources"
 Set-Location $CurrentDir
