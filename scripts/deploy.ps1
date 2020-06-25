@@ -24,4 +24,9 @@ git commit -am $Message
 git push -u origin master
 git push -u gitea master
 
+Write-Host "===================="
+Write-Host "Git pull from server"
+ssh root@davidz.cn bash -c "cd /docker/academic/ && git pull"
+
+
 Set-Location $CurrentWorKDir
