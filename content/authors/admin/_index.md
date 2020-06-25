@@ -31,7 +31,7 @@ education:
   courses:
     - course: BEng in Advanced Computing (Honours)
       institution: Australian National University
-      year: 2019-Now
+      year: 2019-Present
     - course: BEng in Computer Science and Technology
       institution: Shandong University, Weihai
       year: 2017-2019
