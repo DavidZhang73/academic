@@ -49,7 +49,7 @@ social:
     link: "https://github.com/DavidZhang73"
   - icon: envelope
     icon_pack: fas
-    link: "mailto:davidbill@outllo.com"
+    link: "mailto:davidbill@outlook.com"
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: address-card
