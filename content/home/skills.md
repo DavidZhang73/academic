@@ -30,7 +30,7 @@ subtitle = ""
   icon = "node-js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "Vue.js, Jquery"
+  description = "Vue.js, jQuery"
 
 [[feature]]
   icon = "html5"
