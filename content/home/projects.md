@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "From 2017 till now"
+subtitle = "Since 2017"
 
 [content]
   # Page type to display. E.g. project.
