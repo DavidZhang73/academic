@@ -66,4 +66,4 @@ user_groups:
   - Visitors
 ---
 
-I am an undergraduate student in the Research School of Computer Science, Australian National University. I used to be an active web developer, but I am now a passionate starter in academic research and interested in many deep learning topics, particularly computer vision.
+I am an undergraduate student in the Research School of Computer Science, Australian National University. I used to be an active web developer, but I am now a passionate starter in academic research and interested in many deep learning topics, particularly computer vision. I am now doing an honours project supervised by Professor Stephen Gould.
