@@ -36,7 +36,7 @@ subtitle = ""
   icon = "html5"
   icon_pack = "fab"
   name = "HTML and CSS"
-  description = "Bootstrap, Ant Design, Element"
+  description = "Quasar, Bootstrap, Ant Design, Element"
 
 [[feature]]
   icon = "database"
