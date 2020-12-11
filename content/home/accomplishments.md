@@ -67,4 +67,14 @@ date_format = "Jan 2006"
   date_start = "2019-07-02"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Shandon University, Weihai"
+  organization_url = "https://www.wh.sdu.edu.cn/"
+  title = "First Scholarship of Studying Abroad"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-15"
+  date_end = ""
+  description = ""
 +++
