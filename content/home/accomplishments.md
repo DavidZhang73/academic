@@ -77,4 +77,14 @@ date_format = "Jan 2006"
   date_start = "2020-10-15"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Australian National University"
+  organization_url = "https://www.anu.edu.au/"
+  title = "Chancellor's Letter of Commendation"
+  url = "https://davidz-blog.oss-cn-beijing.aliyuncs.com/asset/Chancellor'sLetterofCommendation.pdf"
+  certificate_url = ""
+  date_start = "2021-05-04"
+  date_end = ""
+  description = ""
 +++
